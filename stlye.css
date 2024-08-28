@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+    background-image: url(image/btt.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    color: black;
+    font-size: 50px;
+    background-color: whitesmoke;
+
+}
+
+form{
+    font-size: 25px;
+    color: white;
+}
